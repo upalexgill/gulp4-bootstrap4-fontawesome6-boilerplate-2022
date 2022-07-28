@@ -1,0 +1,16 @@
+/* Styles
+------------------------------------------------- */
+
+@import "../../node_modules/@fortawesome/fontawesome-free/scss/fontawesome";
+@import "../../node_modules/@fortawesome/fontawesome-free/scss/brands";
+@import "../../node_modules/@fortawesome/fontawesome-free/scss/regular";
+@import "../../node_modules/@fortawesome/fontawesome-free/scss/solid";
+@import "../../node_modules/@fortawesome/fontawesome-free/scss/v4-shims";
+@import "abstracts/variables";
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "base/global";
+@import "base/overrides";
+@import "components/header";
+@import "components/footer";
